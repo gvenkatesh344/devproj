@@ -1,7 +1,3 @@
 {
-public static void main()
-{
-this is java test file
+This is the git file
 }
-}
-
